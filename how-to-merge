@@ -1,0 +1,3 @@
+Understand the difference of Fast-Forward and --no-ff.
+What Fast-Forwar does is that it just copys everything you did on the merged branch and do exactlly the same things on the master branch.There is no merge information could be found in the log.Just commits made by the merged branch.
+What --no-ff does is that it promotes a commit on merge so that there is a commit recording the merge information proves the merge on master branch happened.
