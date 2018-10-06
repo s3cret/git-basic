@@ -5,3 +5,4 @@ Git tracks changes of files.
 git reset COMMITID file retrive file from branch
 Creating a new branch is quick and simple.
 Development mode is on.
+Will this merge be logged?
