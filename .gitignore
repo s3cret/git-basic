@@ -1,5 +1,8 @@
 # writing for test
-!*.pyc
+*.pyc
 # directories to be ignored
 # You can end patterns with a forward slash (/) to specify a directory
 config/
+
+# specify a file to be ignored
+.gitignore.example
