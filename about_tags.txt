@@ -1,0 +1,17 @@
+About tags:
+
+# to add a tag.
+git tag tag_name (-m "tag message") COMMITID(default: HEAD)
+
+# to show a tag(commit)
+git show tag
+
+# to delete a tag
+git tag -d
+
+# to add tag(s) to remote.
+git push remote [ tag_name | --tags ] 
+
+# to delete tag from remote
+git tag -d tag_name
+git push remote :refs/tags/tag_name
