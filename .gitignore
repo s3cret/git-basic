@@ -1,0 +1,5 @@
+# writing for test
+!*.pyc
+# directories to be ignored
+# You can end patterns with a forward slash (/) to specify a directory
+config/
