@@ -12,3 +12,4 @@ Nothing left.
 Hopefully all bugs are fixed.
 git status command outputs can be short.
 The only real difference is that git mv is one command instead of three — it’s a convenience function.
+Using rebase --interactive COMMITID to modify a specify commit message. Don't forget to pick (modify 'pick' section) commit.
