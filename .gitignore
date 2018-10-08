@@ -1,0 +1,4 @@
+# writing for test
+*.pyc
+# directories to be ignored
+config
