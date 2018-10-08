@@ -10,3 +10,4 @@ Yes, it is logged in the info, but there is no clue/evidence shows that a merge 
 I just delete the branch "mergeOrNot".It is merged using strategy Fast-Forward.
 Nothing left.
 Hopefully all bugs are fixed.
+git status command outputs can be short.
