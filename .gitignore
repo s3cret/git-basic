@@ -1,8 +1,12 @@
 # writing for test
 *.pyc
+
 # directories to be ignored
 # You can end patterns with a forward slash (/) to specify a directory
 config/
 
 # specify a file to be ignored
 .gitignore.example
+
+# specify pictures to be ignored for now
+*.png
